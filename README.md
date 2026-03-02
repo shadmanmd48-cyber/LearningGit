@@ -1,2 +1,0 @@
-# LearningGit
-Learning Git Repository
